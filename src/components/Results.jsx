@@ -1,6 +1,5 @@
-import React, {useEffect, useState} from "react";
+import  {useEffect} from "react";
 import { useLocation } from "react-router-dom";
-import ReactPlayer from "react-player";
 import { useResultContext } from "../contexts/ResultContextProvider";
 import Loading from "./Loading";
 
