@@ -13,11 +13,11 @@ This project was created only for educational purposes. Google-2.0 only consists
 
 ### Getting Started
 
-####Prerequisites
+#### Prerequisites
 
 The app requires Node.js v10+ to run.
 
-####Installation
+#### Installation
 
 1. Get a API key at https://rapidapi.com/contextualwebsearch/api/web-search/
 2. Clone the repo.
@@ -39,7 +39,7 @@ The app requires Node.js v10+ to run.
     VITE_API_KEY = your key
     ```
 
-####Development
+#### Development
 Want to contribute? Great!
 
 Open your favorite terminal on project folder and run these commands.
@@ -48,7 +48,7 @@ Open your favorite terminal on project folder and run these commands.
 npm run dev
 ```
 
-####Deployment
+#### Deployment
 
 For production release:
 
