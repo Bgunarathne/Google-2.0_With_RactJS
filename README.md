@@ -66,4 +66,4 @@ This project is licensed under the MIT Licensens
 
 ## Acknowledgments
 
-* My special thanks for **JavaScript Mastery** youtube channel.
+* My special thanks to youtube channel **JavaScript Mastery**.
