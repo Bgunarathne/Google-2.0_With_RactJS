@@ -5,7 +5,7 @@ This is a kind of a google search clone with better UI experience.
 ## Dscription
 
 This project was created only for educational purposes. Google-2.0 only consists of image search and web search as I could not able to find a free API which delivers other google services too but it can be improved.
-##Built With
+## Built With
 * [React.JS](https://react.dev/)
 * [Tailwind CSS](https://tailwindcss.com/)
 * [Vite.JS](https://vitejs.dev/)
